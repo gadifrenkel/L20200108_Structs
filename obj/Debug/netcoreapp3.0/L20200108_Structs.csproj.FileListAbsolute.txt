@@ -1,0 +1,10 @@
+C:\Users\hackeru\Documents\GitHub\20190818_DOTNET\L20200108_Structs\L20200108_Structs\bin\Debug\netcoreapp3.0\L20200108_Structs.exe
+C:\Users\hackeru\Documents\GitHub\20190818_DOTNET\L20200108_Structs\L20200108_Structs\bin\Debug\netcoreapp3.0\L20200108_Structs.deps.json
+C:\Users\hackeru\Documents\GitHub\20190818_DOTNET\L20200108_Structs\L20200108_Structs\bin\Debug\netcoreapp3.0\L20200108_Structs.runtimeconfig.json
+C:\Users\hackeru\Documents\GitHub\20190818_DOTNET\L20200108_Structs\L20200108_Structs\bin\Debug\netcoreapp3.0\L20200108_Structs.runtimeconfig.dev.json
+C:\Users\hackeru\Documents\GitHub\20190818_DOTNET\L20200108_Structs\L20200108_Structs\bin\Debug\netcoreapp3.0\L20200108_Structs.dll
+C:\Users\hackeru\Documents\GitHub\20190818_DOTNET\L20200108_Structs\L20200108_Structs\bin\Debug\netcoreapp3.0\L20200108_Structs.pdb
+C:\Users\hackeru\Documents\GitHub\20190818_DOTNET\L20200108_Structs\L20200108_Structs\obj\Debug\netcoreapp3.0\L20200108_Structs.AssemblyInfoInputs.cache
+C:\Users\hackeru\Documents\GitHub\20190818_DOTNET\L20200108_Structs\L20200108_Structs\obj\Debug\netcoreapp3.0\L20200108_Structs.AssemblyInfo.cs
+C:\Users\hackeru\Documents\GitHub\20190818_DOTNET\L20200108_Structs\L20200108_Structs\obj\Debug\netcoreapp3.0\L20200108_Structs.dll
+C:\Users\hackeru\Documents\GitHub\20190818_DOTNET\L20200108_Structs\L20200108_Structs\obj\Debug\netcoreapp3.0\L20200108_Structs.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "L20200108_Structs/1.0.0": {
+        "runtime": {
+          "L20200108_Structs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L20200108_Structs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
